@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Nguyen Duc Thanh
-* ID: Bi12-420
-* Group ID: None
+* Name: NguyenAnhDuy
+* ID: BI12-127 
+* Group ID: *Your Group ID here*
 
